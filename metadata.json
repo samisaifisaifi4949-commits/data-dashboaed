@@ -1,0 +1,5 @@
+{
+  "name": "DataDash AI",
+  "description": "Smart data visualization and dashboard maker powered by Gemini AI. Upload spreadsheets and instantly generate insights, KPIs, and professional charts.",
+  "requestFramePermissions": []
+}
